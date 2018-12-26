@@ -1,3 +1,3 @@
 import os
-path = r'C:\Users\vivek.bhandari\Desktop\arbitrary'
+path = r'/tmp/arbitrary'
 os.makedirs(path)
